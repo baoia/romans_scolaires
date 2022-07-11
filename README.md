@@ -1,6 +1,6 @@
 # Ensemble des scripts réalisés dans le cadre du projet ModOAP
 
-Le projet ModOAP est dédié aux romans scolaires disponibles sur Gallica. D'autres outils sont disponibles sur le GitHub du projet : [https://github.com/MODOAP?tab=repositories](https://github.com/MODOAP?tab=repositories).
+Le projet [ModOAP](https://modoap.huma-num.fr/) est dédié aux romans scolaires disponibles sur Gallica. D'autres outils sont disponibles sur le GitHub du projet : [https://github.com/MODOAP?tab=repositories](https://github.com/MODOAP?tab=repositories).
 
 ### Téléchargement et récupération des données
 - ```BaOIA_table_des_matieres_gallica.ipynb``` : téléchargement des tables des matières des documents via l'API de Gallica.
